@@ -1,7 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Sasithorn Wara-eksiri</h1>
 <h3 align="center">You can call me Pingping ^^</h3>
 
-- 👀 Fun fact **📚 I like to read webtoon whenever I have free time.**
+- 👀 Fun fact
+- **📚 I like to read webtoon whenever I have free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
