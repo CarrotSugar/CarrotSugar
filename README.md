@@ -1,8 +1,10 @@
 <h1 align="center">Hey there 👋, I'm Sasithorn Wara-eksiri</h1>
-<h3 align="center">You can call me Pingping ^^</h3>
 
-- 👀 Fun fact
-- **📚 I like to read webtoon whenever I have free time.**
+<h3 align="left">🌈 About me 🌈</h3>
+- You can call me Pingpong ^^
+- 🎓 I graduated with a Bachelor of Science & Technology in Computer Scinece.
+- 👀 **Fun fact**
+  📚 I like to read webtoon whenever I have free time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
