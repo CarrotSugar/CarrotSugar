@@ -5,7 +5,7 @@ You can call me Pingpong ^^
 
 - 🎓 I graduated with a Bachelor of Science & Technology in Computer Scinece.
 
-- 💻 I interested in frontend developer.
+- 💻 I interested in web programming and mobile application.
 
 - 👀 Fun fact : 📚 I like to read webtoon whenever I have free time.
 
