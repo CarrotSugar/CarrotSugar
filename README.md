@@ -1,9 +1,11 @@
-<h1 align="center">Hey there 👋, I'm Sasithorn Wara-eksiri</h1>
+<h1 align="center">Hey there! 👋, I'm Sasithorn Wara-eksiri</h1>
 
 <h3 align="left">🌈 About me 🌈</h3>
 You can call me Pingpong ^^
 
 - 🎓 I graduated with a Bachelor of Science & Technology in Computer Scinece.
+
+- 💻 I interested in frontend developer.
 
 - 👀 Fun fact : 📚 I like to read webtoon whenever I have free time.
 
