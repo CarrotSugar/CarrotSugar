@@ -2,12 +2,14 @@
 
 <h3 align="left">🌈 About me 🌈</h3>
 <p>You can call me Pingpong ^^</p>
-<p>- 🎓 I graduated with a Bachelor of Science & Technology in Computer Scinece.</p>
+<p>🎓 I graduated with a Bachelor of Science & Technology in Computer Scinece.</p>
 <p>
-- 👀 Fun fact : 📚 I like to read webtoon whenever I have free time.
+👀 Fun fact : 📚 I like to read webtoon whenever I have free time.
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
+GitHub: github.com/CarrotSugar
+Email: swaraeksiri@gmail.com
 <p align="left">
 </p>
 
