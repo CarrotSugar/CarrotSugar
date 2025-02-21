@@ -8,9 +8,11 @@
 </p>
 
 <h3 align="left">Connect with me</h3>
+- GitHub: <a href="https://github.com/CarrotSugar" target="_blank" rel="noreferrer">github.com/CarrotSugar</a>
+
+- Email : **swaraeksiri@gmail.com**
+
 <p align="left">
-  - GitHub: <a href="https://github.com/CarrotSugar" target="_blank" rel="noreferrer">github.com/CarrotSugar</a>
-  - Email: swaraeksiri@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
